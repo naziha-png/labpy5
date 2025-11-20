@@ -253,7 +253,7 @@ while True:
 
 ## **Kesimpulan Tugas Praktikum**
 
-Melalui praktikum ini, mahasiswa memahami bagaimana:
+Melalui praktikum ini, mahasiswa dapat memahami bagaimana:
 
 * Mengelola data menggunakan dictionary Python.
 * Membuat program interaktif dengan menu.
